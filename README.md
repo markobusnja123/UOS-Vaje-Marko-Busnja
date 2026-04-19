@@ -7,6 +7,8 @@ Repozitorij vsebuje vaje za predmet **Upravljanje sodobnih oblačnih storitev** 
 | Mapa   | Vsebina vaje |
 |--------|---------------|
 | `lab01` | Cloudflare Pages – statično gostovanje (upload + Git deploy) |
+| `lab02` | Cloudflare Worker – API posrednik |
+| `lab03` | Supabase – Osnovna aplikacija |
 
 
 ## Opombe
@@ -20,4 +22,4 @@ OpenAI, (2025), *ChatGPT* (Aug 2025) [Large language model], https://chat.openai
 
 ## Avtor
 
-asist. Robi Pritržnik, mag. inž. rač. in splet. tehnol., Fakulteta za informacijske študije v Novem mestu, študijsko leto 2025/26
+asist. Robi Pritržnik, mag. inž. rač. in splet. tehnol., Višja strokovna šola, ŠC Velenje, študijsko leto 2025/26
